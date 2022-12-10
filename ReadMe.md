@@ -24,7 +24,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
   
 ### Connect with me:
 
-- 💬 Telegram : [@DreamHigh0212](https://t.me/DreamHigh212)
+- 💬 Telegram : [@DreamHigh212](https://t.me/DreamHigh212)
 - 📧 Email : donatelo212dunccine@gmail.com
 - 🌐 Website : [www.sebastianpersonal.netlify.app](https://www.sebastianpersonal.netlify.app/)
 
