@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=Richard382&label=Profile%20views&color=0e75b6&style=flat" alt="Sebastian" />  
 
   [gmail]: mailto:donatelo212dunccine@gmail.com
-  [telegram]: https://t.me/DreamHigh0212   
+  [telegram]: https://t.me/DreamHigh212   
      
-  Hi, I'm 🥇[SuperKitty](https://t.me/DreamHigh0212/)🥇, As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  Hi, I'm 🥇[SuperKitty](https://t.me/DreamHigh212/)🥇, As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
 My major skills are MERN Stack, blockchain-based web and mobile application development. I have good experience with Blockchain, Fantasm, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
