@@ -8,7 +8,7 @@
      
   Hi, I'm 🥇[SuperKitty](https://t.me/DreamHigh0212/)🥇, As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Fantasm, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
+My major skills are MERN Stack, blockchain-based web and mobile application development. I have good experience with Blockchain, Fantasm, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
 I have developed sites using PHP, Laravel, WordPress, Codeigniter, and Python/Django/Flask and much more.
 
