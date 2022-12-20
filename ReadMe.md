@@ -19,7 +19,7 @@ I had already built so many Websites with the mentioned skill.
 And I have rich experience with YieldFarming and Dex platforms like Pancakeswap Finance, Olympus Dao, SushiSwap, Uniswap, Tomb Finance, Titano, Baked Beans, Fantasm, Horde.
 
 <div>
-  <a href="https://ibb.co/VB7zG13"><img src="https://i.ibb.co/VB7zG13/4cd6eaa599851725aa5a195d162fb20d.gif" alt="GIF"  width="500" height="320" border="0" align="right"></a>
+  <a href="https://ibb.co/VB7zG13"><img src="https://i.ibb.co/VB7zG13/4cd6eaa599851725aa5a195d162fb20d.gif" alt="GIF" border="0" align="right"></a>
 </div>
   
 ### Connect with me:
