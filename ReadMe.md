@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=Richard382&label=Profile%20views&color=0e75b6&style=flat" alt="Sebastian" />  
 
   [gmail]: mailto:donatelo212dunccine@gmail.com
-  [telegram]: https://t.me/milosdelic   
+  [telegram]: https://t.me/konoichirou   
      
-  Hi, I'm 🥇[SuperKitty](https://t.me/milosdelic/)🥇, As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  Hi, I'm 🥇[SuperKitty](https://t.me/konoichirou)🥇, As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
 My major skills are MERN Stack, blockchain-based web and mobile application development. I have good experience with Blockchain, Fantasm, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
@@ -24,7 +24,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
   
 ### Connect with me:
 
-- 💬 Telegram : [@milosdelic](https://t.me/milosdelic)
+- 💬 Telegram : [@konoichirou](https://t.me/konoichirou)
 - 📧 Email : donatelo212dunccine@gmail.com
 
 ### Languages and Tools:
