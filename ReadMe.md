@@ -5,8 +5,4 @@
   <p>At Zed International Co Ltd, we offer a wide range of services, including <b>IT/Networking</b>, <b>Design/Modeling</b>, <b>Web development</b>, <b>App development</b>, and <b>software development</b>.</p>
   <p>With years of experience in the industry, I have developed a keen eye for detail and a deep understanding of what it takes to help businesses succeed in the digital world.</p>
   <p>I am committed to providing the best possible service to my clients and ensuring that their needs are met every step of the way.</p>
-
-<div>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/cTGZ9Bx/4cd6eaa599851725aa5a195d162fb20d.gif" alt="GIF" border="0" align="right" width="500"/></a>
-</div>
  
